@@ -1,3 +1,3 @@
 # Image-Processing
 
-Some Image Processing activities
+Some Image Processing Activities
