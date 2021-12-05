@@ -1,3 +1,3 @@
-# GNU-Octave-Experiments
+# Image-Processing
 
 Image manipulation activities using GNU Octave
