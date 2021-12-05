@@ -1,3 +1,3 @@
 # Image-Processing
 
-Image manipulation activities using GNU Octave
+Some Image Processing activities
