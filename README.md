@@ -1,3 +1,3 @@
-# Image-Processing
+# Image-Filters-in-Python
 
-Some Image Processing Activities
+Some Image filters in Python
