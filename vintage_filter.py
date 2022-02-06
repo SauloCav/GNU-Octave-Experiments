@@ -50,3 +50,7 @@ class Vintage(object):
 		cv2.waitKey(0)
 		cv2.destroyAllWindows()
 		print("Image saved as 'Vintage_version.jpg'")
+
+img = Vintage()
+
+img.start('the-good-the-bad-and-the-ugly_764d_1920x1080.jpg')
