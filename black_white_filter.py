@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import cv2
+
 class BlacknWhite(object):
 	"""BlacknWhite Filter
 		A class that applies BlacknWhite filter to an image.
@@ -55,3 +56,7 @@ class BlacknWhite(object):
 		cv2.waitKey(0)
 		cv2.destroyAllWindows()
 		print("Image saved as 'BlacNwhite_version.jpg'")
+
+bnw = BlacknWhite()
+
+bnw.start('the-good-the-bad-and-the-ugly_764d_1920x1080.jpg')
