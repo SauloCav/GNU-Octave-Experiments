@@ -45,4 +45,4 @@ class BlacknWhite(object):
 
 img = BlacknWhite()
 
-img.start('the-good-the-bad-and-the-ugly_764d_1920x1080.jpg')
+img.start('your_image.jpg')

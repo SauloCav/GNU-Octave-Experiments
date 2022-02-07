@@ -8,7 +8,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-img = cv2.imread("the-good-the-bad-and-the-ugly_764d_1920x1080.jpg", 0)
+img = cv2.imread("your_image.jpg", 0)
 
 edges2 = skimage.feature.canny(
     image=img,

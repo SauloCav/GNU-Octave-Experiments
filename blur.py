@@ -5,8 +5,8 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-img = cv2.imread("thumb-1920-642030.jpg")
-img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB) # Fixes color read issue
+img = cv2.imread("your_image.jpg")
+img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
 av5 = cv2.blur(img,(10,10))
 

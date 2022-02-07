@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import PIL
 from PIL import ImageEnhance
 
-img = PIL.Image.open('the-good-the-bad-and-the-ugly_764d_1920x1080.jpg')
+img = PIL.Image.open('your_image.jpg')
 
 converter = ImageEnhance.Contrast(img)
 
