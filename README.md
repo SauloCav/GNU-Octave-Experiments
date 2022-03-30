@@ -21,11 +21,16 @@ Brightness is an attribute of visual perception in which a source appears to be 
 A cartoon is a humorous drawing, animated or not. The specific meaning has evolved over time, but modern usage generally refers to: an image or series of images intended for humor. For this filter, the cv2 library was used.
 
 <strong>Cool:</strong></br>
+Cool filter reduces the temperature of the image bringing more bluish tones. For this filter, the cv2 library was used.
 
 <strong>Edge Detection:</strong></br>
+Edge detection is an image processing and computer vision technique to determine points in a digital image where the light intensity changes suddenly. For this filter, the cv2 library was used.
 
 <strong>Negative:</strong></br>
+In photography, a negative is an image in which the lighter areas of the photographed subject appear darker and the darker areas appear lighter. For this filter, the cv2 library was used.
 
 <strong>Saturation:</strong></br>
+Saturation is a parameter that specifies the quality of a color hue by the degree to which the hue blends with the white color. For this filter, the PIL library was used.
 
 <strong>Vintage:</strong></br>
+Vintage filters bring an image treatment reminiscent of old images. For this filter, the cv2 library was used.
